@@ -1,0 +1,15 @@
+	<div class="container">
+		<div class="left-half">
+			<div class="row">
+				<div id="header" class="col-md-12">
+					<h1>Hello World of Bootstrap</h1>
+				</div>
+			</div>
+		</div>
+		<div class="right-half">
+			<h1> Right half
+		</div>
+	</div>
+	<script src="./jquery-ui.min.js"></script>
+	<script src="./main.js"></script>
+	<script src="./bootstrap/js/bootstrap.min.js"></script>

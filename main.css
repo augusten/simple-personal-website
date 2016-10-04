@@ -1,0 +1,72 @@
+body {
+    background: linear-gradient(rgba(220,220,220,0.3),rgba(220,220,220,0.3)),
+                url("images/back.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1 {
+	color: white;
+    text-align: center;
+    font-family: "Andale Mono", monospace;
+    font-weight: 200;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+div {
+    width: 30em;
+    float: left;
+}
+
+p {
+    margin: 20px;
+    text-align: justify;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.clear {
+    clear: left;
+}
+
+.headers {
+    color: white;	
+	margin-left: 280px;
+	font-family: "Gill Sans", sans-serif;
+	display: block;
+
+}
+
+.intro {
+    border: 1px solid #2F4F4F;
+    color: white;
+    margin: 1.2em 14em;
+    width: 50em;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 1em;
+}
+
+.content {
+    color: white;
+	margin-left: 18em;
+	margin-right: 18em;
+	width: 25em;
+	font-family: "Gill Sans", sans-serif;
+	font-size: 0.9em;
+}
+
+.button {
+	font-family: "Gill Sans", sans-serif;
+    background-color: #2F4F4F;
+    border: none;
+    color: white;
+    padding: 10px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 0 auto;
+    cursor: pointer;
+}
